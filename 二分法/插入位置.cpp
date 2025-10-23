@@ -1,5 +1,6 @@
 //插入位置
 //相邻LR，（L+R）/2必定为L，故插值在L右侧L=0除外
+//version
 
 #include <iostream>
 #include <string>
